@@ -1,0 +1,21 @@
+{
+  "name": "Greece",
+  "age_groups": {
+    "age_group_0": [
+      0,
+      17
+    ],
+    "age_group_1": [
+      18,
+      39
+    ],
+    "age_group_2": [
+      40,
+      64
+    ],
+    "age_group_3": [
+      65,
+      100
+    ]
+  }
+}
